@@ -1,3 +1,13 @@
+## Teste Lacrei Saude
+* Neste projeto existem as pastas:
+---
+* Bugs: onde se encontram os bugs encontrados.
+* Casos de Testes: encontram-se todos os casos de testes realizados.
+* Testes de acessibilidade: testes realacionados a acessbilidade da plataforma.
+* Testes de Responsividade: testes relacionados a responsividade a plataforma.
+* Testes de Desempenho: testes relacionados ao desempenho da plataforma.
+
+---
 ## Testes Automatizados - Lacrei Saúde
 Este repositório contém os testes automatizados para a plataforma Lacrei Saúde, utilizando Cypress. Os testes cobrem as funcionalidades de buscar profissional, cadastro, login e outros casos de teste relacionados ao comportamento da plataforma.
 
