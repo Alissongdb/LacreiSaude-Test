@@ -1,0 +1,58 @@
+# Busca por profissional
+
+## Pesquisa em branco não retornando mensagem ao usuário
+
+Comportamento esperado
+* Ao acessar o campo de pesquisa por profissional e não informar nenhum dado dentro do campo e clicar em Pesquisar deve alertar o usuario para que o mesmo informe um dado no campo.
+
+Comportamento atual
+* Ao deixar o campo pesquisa em branco e clicar em pesquisar não esta sendo retornado nenhuma mensagem ao usuario.
+
+Passo a passo para reprodução
+* Acessar a tela de busca por profissional
+* Deixar o campo de pesquisa em branco
+* Clicar em Pesquisar 
+
+Ambiente utilizado e versão
+* https://paciente-staging.lacreisaude.com.br/buscar-profissional/
+
+Prioridade
+* Baixa
+
+Quem identificou
+* Alisson
+
+Evidências
+![alt text](image.png)
+![alt text](image-1.png)
+
+---
+
+# Edição de Perfil
+
+## Edição de perfil deve ter uma mensagem de validação de dados salvos
+
+Comportamento esperado
+* Ao acessar a tela de perfil e editar algum dado e salvar, não é retornado nenhuma mensagem de confirmação para o usuario de que seus dados foram salvos.
+
+Comportamento atual
+* Ao editar algum dado no perfil do usuario e salvar, deve ser retornada uma mensagem de confirmação para o usuario.
+
+Passo a passo para reprodução
+* Acessar a tela de perfil
+* Clicar em Editar Dados
+* Editar algum campo
+* Clicar em Salvar
+
+Ambiente utilizado e versão
+* https://paciente-staging.lacreisaude.com.br/perfil/
+
+Prioridade
+* Media
+
+Quem identificou
+* Alisson
+
+Evidências
+![alt text](image-2.png)
+![alt text](image-3.png)
