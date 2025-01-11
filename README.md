@@ -7,6 +7,8 @@
 * Testes de Responsividade: testes relacionados a responsividade a plataforma.
 * Testes de Desempenho: testes relacionados ao desempenho da plataforma.
 
+* Orientação: Quando houver imagem de evidencia, tanto para os testes de desempenho, acessibilidade, responsividade e tambem para os bugs, estará informado por exemplo image-1, image-2 e as imagens estao dentro de cada pasta correspondente ao tipo de teste e dos bugs.
+
 ---
 ## Testes Automatizados - Lacrei Saúde
 Este repositório contém os testes automatizados para a plataforma Lacrei Saúde, utilizando Cypress. Os testes cobrem as funcionalidades de buscar profissional, cadastro, login e outros casos de teste relacionados ao comportamento da plataforma.
